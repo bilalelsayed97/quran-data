@@ -1,0 +1,24 @@
+{
+  "reciter": {
+    "id": 44,
+    "name": "صلاح الهاشم",
+    "letter": "ص"
+  },
+  "moshaf": {
+    "id": 45,
+    "name": "قالون عن نافع - مرتل",
+    "server": "https://server12.mp3quran.net/salah_hashim_m/Rewayat-Qalon-A-n-Nafi/",
+    "surah_total": 7,
+    "surah_list": "1,12,40,50,53,75,76"
+  },
+  "durations": {
+    "1": 39,
+    "12": 2149,
+    "40": 1559,
+    "50": 512,
+    "53": 518,
+    "75": 223,
+    "76": 338
+  },
+  "duration_count": 7
+}

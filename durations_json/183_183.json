@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 183,
+    "name": "رضية عبدالرحمن",
+    "letter": "ر"
+  },
+  "moshaf": {
+    "id": 183,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/rziah/",
+    "surah_total": 4,
+    "surah_list": "3,8,33,35"
+  },
+  "durations": {
+    "3": 531,
+    "8": 570,
+    "33": 538,
+    "35": 712
+  },
+  "duration_count": 4
+}

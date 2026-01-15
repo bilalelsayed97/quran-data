@@ -1,0 +1,28 @@
+{
+  "reciter": {
+    "id": 265,
+    "name": "أحمد ديبان",
+    "letter": "أ"
+  },
+  "moshaf": {
+    "id": 313,
+    "name": "ابن جماز عن أبي جعفر - مرتل",
+    "server": "https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/",
+    "surah_total": 11,
+    "surah_list": "1,93,100,102,103,109,110,111,112,113,114"
+  },
+  "durations": {
+    "1": 38,
+    "93": 57,
+    "100": 55,
+    "102": 47,
+    "103": 23,
+    "109": 36,
+    "110": 28,
+    "111": 33,
+    "112": 17,
+    "113": 25,
+    "114": 32
+  },
+  "duration_count": 11
+}

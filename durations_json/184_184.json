@@ -1,0 +1,18 @@
+{
+  "reciter": {
+    "id": 184,
+    "name": "رقية سولونق",
+    "letter": "ر"
+  },
+  "moshaf": {
+    "id": 184,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/rogiah/",
+    "surah_total": 1,
+    "surah_list": "36"
+  },
+  "durations": {
+    "36": 3652
+  },
+  "duration_count": 1
+}

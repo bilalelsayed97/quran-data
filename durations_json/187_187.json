@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 187,
+    "name": "سيدين عبدالرحمن",
+    "letter": "س"
+  },
+  "moshaf": {
+    "id": 187,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/sideen/",
+    "surah_total": 4,
+    "surah_list": "17,23,56,75"
+  },
+  "durations": {
+    "17": 477,
+    "23": 569,
+    "56": 441,
+    "75": 567
+  },
+  "duration_count": 4
+}

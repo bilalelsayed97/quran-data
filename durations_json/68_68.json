@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 68,
+    "name": "عبدالمحسن العسكر",
+    "letter": "ع"
+  },
+  "moshaf": {
+    "id": 68,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server6.mp3quran.net/askr/",
+    "surah_total": 4,
+    "surah_list": "1,2,7,55"
+  },
+  "durations": {
+    "1": 35,
+    "2": 5108,
+    "7": 2560,
+    "55": 354
+  },
+  "duration_count": 4
+}

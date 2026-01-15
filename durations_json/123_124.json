@@ -1,0 +1,23 @@
+{
+  "reciter": {
+    "id": 123,
+    "name": "مشاري العفاسي",
+    "letter": "م"
+  },
+  "moshaf": {
+    "id": 124,
+    "name": "الدوري عن الكسائي - مرتل",
+    "server": "https://server8.mp3quran.net/afs/Rewayat-AlDorai-A-n-Al-Kisa-ai/",
+    "surah_total": 6,
+    "surah_list": "12,14,25,87,97,99"
+  },
+  "durations": {
+    "12": 2746,
+    "14": 1413,
+    "25": 1309,
+    "87": 101,
+    "97": 57,
+    "99": 55
+  },
+  "duration_count": 6
+}

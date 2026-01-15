@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 153,
+    "name": "أخيل عبدالحي روا",
+    "letter": "أ"
+  },
+  "moshaf": {
+    "id": 153,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/akil/",
+    "surah_total": 4,
+    "surah_list": "50,51,52,56"
+  },
+  "durations": {
+    "50": 726,
+    "51": 779,
+    "52": 685,
+    "56": 977
+  },
+  "duration_count": 4
+}

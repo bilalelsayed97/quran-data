@@ -1,0 +1,23 @@
+{
+  "reciter": {
+    "id": 265,
+    "name": "أحمد ديبان",
+    "letter": "أ"
+  },
+  "moshaf": {
+    "id": 311,
+    "name": "خلف عن حمزة - مرتل",
+    "server": "https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/",
+    "surah_total": 6,
+    "surah_list": "94,97,101,107,108,109"
+  },
+  "durations": {
+    "94": 36,
+    "97": 36,
+    "101": 51,
+    "107": 34,
+    "108": 21,
+    "109": 40
+  },
+  "duration_count": 6
+}

@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 185,
+    "name": "سابينة مامات",
+    "letter": "س"
+  },
+  "moshaf": {
+    "id": 185,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/mamat/",
+    "surah_total": 4,
+    "surah_list": "3,14,21,22"
+  },
+  "durations": {
+    "3": 665,
+    "14": 769,
+    "21": 705,
+    "22": 759
+  },
+  "duration_count": 4
+}

@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 192,
+    "name": "محمد خير النور",
+    "letter": "م"
+  },
+  "moshaf": {
+    "id": 192,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/nor/",
+    "surah_total": 4,
+    "surah_list": "1,12,19,31"
+  },
+  "durations": {
+    "1": 53,
+    "12": 2097,
+    "19": 1121,
+    "31": 612
+  },
+  "duration_count": 4
+}

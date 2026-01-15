@@ -1,0 +1,22 @@
+{
+  "reciter": {
+    "id": 27,
+    "name": "رشيد بلعالية",
+    "letter": "ر"
+  },
+  "moshaf": {
+    "id": 261,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server6.mp3quran.net/bl3/",
+    "surah_total": 5,
+    "surah_list": "46,47,48,49,50"
+  },
+  "durations": {
+    "46": 717,
+    "47": 632,
+    "48": 641,
+    "49": 418,
+    "50": 432
+  },
+  "duration_count": 5
+}

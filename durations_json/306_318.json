@@ -1,0 +1,28 @@
+{
+  "reciter": {
+    "id": 306,
+    "name": "عبدالله المشعل",
+    "letter": "ع"
+  },
+  "moshaf": {
+    "id": 318,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server16.mp3quran.net/a-almishal/Rewayat-Hafs-A-n-Assem/",
+    "surah_total": 11,
+    "surah_list": "8,14,41,49,50,51,52,53,54,55,56"
+  },
+  "durations": {
+    "8": 1630,
+    "14": 1043,
+    "41": 948,
+    "49": 411,
+    "50": 488,
+    "51": 415,
+    "52": 389,
+    "53": 414,
+    "54": 391,
+    "55": 502,
+    "56": 515
+  },
+  "duration_count": 11
+}

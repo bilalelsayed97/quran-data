@@ -1,0 +1,21 @@
+{
+  "reciter": {
+    "id": 189,
+    "name": "عبدالله فهمي",
+    "letter": "ع"
+  },
+  "moshaf": {
+    "id": 189,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/fhmi/",
+    "surah_total": 4,
+    "surah_list": "1,36,53,75"
+  },
+  "durations": {
+    "1": 71,
+    "36": 524,
+    "53": 1037,
+    "75": 547
+  },
+  "duration_count": 4
+}

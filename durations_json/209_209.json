@@ -1,0 +1,19 @@
+{
+  "reciter": {
+    "id": 209,
+    "name": "وشيار حيدر اربيلي",
+    "letter": "و"
+  },
+  "moshaf": {
+    "id": 209,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server11.mp3quran.net/wishear/",
+    "surah_total": 2,
+    "surah_list": "55,56"
+  },
+  "durations": {
+    "55": 1564,
+    "56": 1775
+  },
+  "duration_count": 2
+}

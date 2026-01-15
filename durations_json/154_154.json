@@ -1,0 +1,24 @@
+{
+  "reciter": {
+    "id": 154,
+    "name": "أستاذ زامري",
+    "letter": "أ"
+  },
+  "moshaf": {
+    "id": 154,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/zamri/",
+    "surah_total": 7,
+    "surah_list": "32,44,55,56,61,67,76"
+  },
+  "durations": {
+    "32": 476,
+    "44": 570,
+    "55": 648,
+    "56": 661,
+    "61": 326,
+    "67": 403,
+    "76": 306
+  },
+  "duration_count": 7
+}

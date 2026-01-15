@@ -1,0 +1,26 @@
+{
+  "reciter": {
+    "id": 167,
+    "name": "واصل المذن",
+    "letter": "و"
+  },
+  "moshaf": {
+    "id": 167,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server11.mp3quran.net/wasel/Rewayat-Hafs-A-n-Assem/",
+    "surah_total": 9,
+    "surah_list": "8,9,36,38,42,45,50,59,60"
+  },
+  "durations": {
+    "8": 2382,
+    "9": 2793,
+    "36": 819,
+    "38": 859,
+    "42": 984,
+    "45": 472,
+    "50": 504,
+    "59": 516,
+    "60": 409
+  },
+  "duration_count": 9
+}

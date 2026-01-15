@@ -1,0 +1,25 @@
+{
+  "reciter": {
+    "id": 82,
+    "name": "فهد العتيبي",
+    "letter": "ف"
+  },
+  "moshaf": {
+    "id": 82,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server8.mp3quran.net/fahad_otibi/",
+    "surah_total": 8,
+    "surah_list": "50,56,69,72,73,74,75,76"
+  },
+  "durations": {
+    "50": 521,
+    "56": 650,
+    "69": 379,
+    "72": 354,
+    "73": 272,
+    "74": 327,
+    "75": 273,
+    "76": 335
+  },
+  "duration_count": 8
+}

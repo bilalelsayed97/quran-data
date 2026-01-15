@@ -1,0 +1,22 @@
+{
+  "reciter": {
+    "id": 191,
+    "name": "محمد حفص علي",
+    "letter": "م"
+  },
+  "moshaf": {
+    "id": 191,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/hfs/",
+    "surah_total": 5,
+    "surah_list": "1,9,11,13,67"
+  },
+  "durations": {
+    "1": 130,
+    "9": 635,
+    "11": 583,
+    "13": 603,
+    "67": 554
+  },
+  "duration_count": 5
+}

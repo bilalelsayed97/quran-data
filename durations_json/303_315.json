@@ -1,0 +1,24 @@
+{
+  "reciter": {
+    "id": 303,
+    "name": "عبدالملك العسكر",
+    "letter": "ع"
+  },
+  "moshaf": {
+    "id": 315,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server16.mp3quran.net/a_alaskar/Rewayat-Hafs-A-n-Assem/",
+    "surah_total": 7,
+    "surah_list": "30,36,40,69,70,71,75"
+  },
+  "durations": {
+    "30": 940,
+    "36": 875,
+    "40": 1437,
+    "69": 353,
+    "70": 334,
+    "71": 261,
+    "75": 224
+  },
+  "duration_count": 7
+}

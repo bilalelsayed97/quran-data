@@ -1,0 +1,20 @@
+{
+  "reciter": {
+    "id": 190,
+    "name": "محمد الحافظ",
+    "letter": "م"
+  },
+  "moshaf": {
+    "id": 190,
+    "name": "حفص عن عاصم - مرتل",
+    "server": "https://server12.mp3quran.net/malaysia/hafz/",
+    "surah_total": 3,
+    "surah_list": "1,19,31"
+  },
+  "durations": {
+    "1": 91,
+    "19": 1749,
+    "31": 1102
+  },
+  "duration_count": 3
+}
