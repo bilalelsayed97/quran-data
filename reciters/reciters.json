@@ -1,5 +1,97 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/",
+  "featured": [
+    {
+      "mp3quranId": 92,
+      "name": "Yasser Al-Dosari",
+      "nameAr": "ياسر الدوسري",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Yasser%20Al-Dosari.png"
+    },
+    {
+      "mp3quranId": 51,
+      "name": "Abdul Basit Abdul Samad",
+      "nameAr": "عبدالباسط عبدالصمد",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdul%20Basit%20Abdul%20Samad.png"
+    },
+    {
+      "mp3quranId": 112,
+      "name": "Muhammad Siddiq Al-Minshawi",
+      "nameAr": "محمد صديق المنشاوي",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Muhammad%20Siddiq%20Al-Minshawi.png"
+    },
+    {
+      "mp3quranId": 121,
+      "name": "Mahmoud Ali Al-Banna",
+      "nameAr": "محمود علي البنا",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Mahmoud%20Ali%20Al-Banna.png"
+    },
+    {
+      "mp3quranId": 118,
+      "name": "Mahmoud Khalil Al-Husary",
+      "nameAr": "محمود خليل الحصري",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Mahmoud%20Khalil%20Al-Husary.png"
+    },
+    {
+      "mp3quranId": 107,
+      "name": "Muhammad Al-Luhaidan",
+      "nameAr": "محمد اللحيدان",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Muhammad%20Al-Luhaidan.png"
+    },
+    {
+      "mp3quranId": 86,
+      "name": "Nasser Al-Qatami",
+      "nameAr": "ناصر القطامي",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Nasser%20Al-Qatami.png"
+    },
+    {
+      "mp3quranId": 20,
+      "name": "Khalid Al-Jileel",
+      "nameAr": "خالد الجليل",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Khalid%20Al-Jileel.png"
+    },
+    {
+      "mp3quranId": 231,
+      "name": "Hazza Al-Balushi",
+      "nameAr": "هزاع البلوشي",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Hazza%20Al-Balushi.png"
+    },
+    {
+      "mp3quranId": 221,
+      "name": "Raad Al-Kurdi",
+      "nameAr": "رعد محمد الكردي",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Raad%20Al-Kurdi.png"
+    },
+    {
+      "mp3quranId": 219,
+      "name": "Wadi' Al-Yamani",
+      "nameAr": "وديع اليمني",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Wadi%27%20Al-Yamani.png"
+    },
+    {
+      "mp3quranId": 254,
+      "name": "Bader Al-Turki",
+      "nameAr": "بدر التركي",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Bader%20Al-Turki.png"
+    },
+    {
+      "mp3quranId": 4,
+      "name": "Sheikh Abu Bakr Al-Shatri",
+      "nameAr": "شيخ أبو بكر الشاطري",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Sheikh%20Abu%20Bakr%20Al-Shatri.png"
+    },
+    {
+      "mp3quranId": 76,
+      "name": "Ali Jaber",
+      "nameAr": "علي جابر",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ali%20Jaber.png"
+    },
+    {
+      "mp3quranId": 30,
+      "name": "Saad Al-Ghamdi",
+      "nameAr": "سعد الغامدي",
+      "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Saad%20Al-Ghamdi.png"
+    }
+  ],
   "reciters": [
     {
       "name": "Abdul Basit Abdul Samad",
