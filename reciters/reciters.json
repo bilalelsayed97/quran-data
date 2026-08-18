@@ -101,6 +101,12 @@
       "bundledIds": [
         "abdulsamad",
         "abdulsamad-murattal"
+      ],
+      "radioIds": [
+        30,
+        31,
+        32,
+        109039
       ]
     },
     {
@@ -108,7 +114,8 @@
       "file": "Abdul Rahman Mossad.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdul%20Rahman%20Mossad.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Abdul Rashid Ali Sufi",
@@ -117,6 +124,10 @@
       "mp3quranId": 64,
       "bundledIds": [
         "sufi"
+      ],
+      "radioIds": [
+        39,
+        40
       ]
     },
     {
@@ -124,7 +135,10 @@
       "file": "Abdulaziz Al-Sheim.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdulaziz%20Al-Sheim.png",
       "mp3quranId": 307,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        307
+      ]
     },
     {
       "name": "Abdullah Al-Johany",
@@ -133,6 +147,9 @@
       "mp3quranId": 62,
       "bundledIds": [
         "juhany"
+      ],
+      "radioIds": [
+        38
       ]
     },
     {
@@ -140,28 +157,36 @@
       "file": "Abdullah Al-Mattrod.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdullah%20Al-Mattrod.png",
       "mp3quranId": 59,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        35
+      ]
     },
     {
       "name": "Abdullah Al-Mousa",
       "file": "Abdullah Al-Mousa.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdullah%20Al-Mousa.png",
       "mp3quranId": 243,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        121
+      ]
     },
     {
       "name": "Abdullah Al-Qarafi",
       "file": "Abdullah Al-Qarafi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdullah%20Al-Qarafi.png",
       "mp3quranId": 21136,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Abdullah Bukhari",
       "file": "Abdullah Bukhari.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdullah%20Bukhari.png",
       "mp3quranId": 29,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Abdulrahman Al-Sudais",
@@ -170,6 +195,9 @@
       "mp3quranId": 54,
       "bundledIds": [
         "sudais"
+      ],
+      "radioIds": [
+        33
       ]
     },
     {
@@ -177,28 +205,36 @@
       "file": "Abdulrahman Al-Suwayid.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdulrahman%20Al-Suwayid.png",
       "mp3quranId": 135,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Abdur Rahman Al-Ossi",
       "file": "Abdur Rahman Al-Ossi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Abdur%20Rahman%20Al-Ossi.png",
       "mp3quranId": 225,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Adel Ryyan",
       "file": "Adel Ryyan.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Adel%20Ryyan.png",
       "mp3quranId": 48,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        27
+      ]
     },
     {
       "name": "Ahmad Al-Ajmy",
       "file": "Ahmad Al-Ajmy.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ahmad%20Al-Ajmy.png",
       "mp3quranId": 5,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        3
+      ]
     },
     {
       "name": "Ahmad Al-Nufais",
@@ -207,28 +243,36 @@
       "mp3quranId": 259,
       "bundledIds": [
         "nufais"
-      ]
+      ],
+      "radioIds": []
     },
     {
       "name": "Ahmad Magomedkamilov",
       "file": "Ahmad Magomedkamilov.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ahmad%20Magomedkamilov.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Ahmad Nuaina",
       "file": "Ahmad Nuaina.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ahmad%20Nuaina.png",
       "mp3quranId": 9,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        6
+      ]
     },
     {
       "name": "Ahmad Talib bin Humaid",
       "file": "Ahmad Talib bin Humaid.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ahmad%20Talib%20bin%20Humaid.png",
       "mp3quranId": 137,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        109075
+      ]
     },
     {
       "name": "Ali Jaber",
@@ -237,6 +281,9 @@
       "mp3quranId": 76,
       "bundledIds": [
         "jaber"
+      ],
+      "radioIds": [
+        48
       ]
     },
     {
@@ -244,14 +291,16 @@
       "file": "Alijon Fayzulloh.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Alijon%20Fayzulloh.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Alwaleed Al-Shamsan",
       "file": "Alwaleed Al-Shamsan.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Alwaleed%20Al-Shamsan.png",
       "mp3quranId": 21188,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Alzain Mohamed Ahmed",
@@ -260,6 +309,9 @@
       "mp3quranId": 13,
       "bundledIds": [
         "alzain"
+      ],
+      "radioIds": [
+        9
       ]
     },
     {
@@ -267,42 +319,54 @@
       "file": "Ayman Rushdi Suwaid.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ayman%20Rushdi%20Suwaid.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Bader Al-Turki",
       "file": "Bader Al-Turki.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Bader%20Al-Turki.png",
       "mp3quranId": 254,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        109077
+      ]
     },
     {
       "name": "Bandar Balilah",
       "file": "Bandar Balilah.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Bandar%20Balilah.png",
       "mp3quranId": 217,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        217
+      ]
     },
     {
       "name": "Doniyor Fayz",
       "file": "Doniyor Fayz.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Doniyor%20Fayz.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Fares Abbad",
       "file": "Fares Abbad.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Fares%20Abbad.png",
       "mp3quranId": 81,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        52
+      ]
     },
     {
       "name": "Fatih Seferagic",
       "file": "Fatih Seferagic.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Fatih%20Seferagic.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Haitham Al-Dukhain",
@@ -311,70 +375,94 @@
       "mp3quranId": 273,
       "bundledIds": [
         "dukhain"
-      ]
+      ],
+      "radioIds": []
     },
     {
       "name": "Haitham Al-Jadaani",
       "file": "Haitham Al-Jadaani.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Haitham%20Al-Jadaani.png",
       "mp3quranId": 255,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        119
+      ]
     },
     {
       "name": "Hani Al-Rifai",
       "file": "Hani Al-Rifai.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Hani%20Al-Rifai.png",
       "mp3quranId": 89,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        56
+      ]
     },
     {
       "name": "Hatem Fareed Al-Waer",
       "file": "Hatem Fareed Al-Waer.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Hatem%20Fareed%20Al-Waer.png",
       "mp3quranId": 163,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        89
+      ]
     },
     {
       "name": "Hazza Al-Balushi",
       "file": "Hazza Al-Balushi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Hazza%20Al-Balushi.png",
       "mp3quranId": 231,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        109078
+      ]
     },
     {
       "name": "Idris Abkar",
       "file": "Idris Abkar.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Idris%20Abkar.png",
       "mp3quranId": 12,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        8
+      ]
     },
     {
       "name": "Ihlas Salih",
       "file": "Ihlas Salih.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Ihlas%20Salih.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Islam Sobhi",
       "file": "Islam Sobhi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Islam%20Sobhi.png",
       "mp3quranId": 253,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Khaled Al-Qahtani",
       "file": "Khaled Al-Qahtani.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Khaled%20Al-Qahtani.png",
       "mp3quranId": 21,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        14
+      ]
     },
     {
       "name": "Khalid Al-Jileel",
       "file": "Khalid Al-Jileel.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Khalid%20Al-Jileel.png",
       "mp3quranId": 20,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        117
+      ]
     },
     {
       "name": "Maher Al-Muaiqly",
@@ -384,6 +472,9 @@
       "bundledIds": [
         "muaiqly",
         "muaiqly-haramain"
+      ],
+      "radioIds": [
+        63
       ]
     },
     {
@@ -393,6 +484,10 @@
       "mp3quranId": 121,
       "bundledIds": [
         "banna"
+      ],
+      "radioIds": [
+        77,
+        78
       ]
     },
     {
@@ -404,6 +499,11 @@
         "husary",
         "husary-qasr",
         "husary-mujawwad"
+      ],
+      "radioIds": [
+        74,
+        75,
+        76
       ]
     },
     {
@@ -413,7 +513,8 @@
       "mp3quranId": 245,
       "bundledIds": [
         "salmi"
-      ]
+      ],
+      "radioIds": []
     },
     {
       "name": "Mishary Rashid Alafasy",
@@ -422,6 +523,9 @@
       "mp3quranId": 123,
       "bundledIds": [
         "afasy"
+      ],
+      "radioIds": [
+        79
       ]
     },
     {
@@ -429,7 +533,8 @@
       "file": "Mohammad Ayyub Asif.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Mohammad%20Ayyub%20Asif.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Muhammad Al-Luhaidan",
@@ -438,6 +543,9 @@
       "mp3quranId": 107,
       "bundledIds": [
         "luhaidan"
+      ],
+      "radioIds": [
+        65
       ]
     },
     {
@@ -447,6 +555,10 @@
       "mp3quranId": 109,
       "bundledIds": [
         "ayyub"
+      ],
+      "radioIds": [
+        66,
+        261
       ]
     },
     {
@@ -456,6 +568,10 @@
       "mp3quranId": 112,
       "bundledIds": [
         "minshawi"
+      ],
+      "radioIds": [
+        69,
+        70
       ]
     },
     {
@@ -463,21 +579,28 @@
       "file": "Muhammadloiq Aminov.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Muhammadloiq%20Aminov.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Mustafa Ismail",
       "file": "Mustafa Ismail.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Mustafa%20Ismail.png",
       "mp3quranId": 125,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        80
+      ]
     },
     {
       "name": "Nabil Al-Rifai",
       "file": "Nabil Al-Rifai.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Nabil%20Al-Rifai.png",
       "mp3quranId": 87,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        54
+      ]
     },
     {
       "name": "Nasser Al-Qatami",
@@ -486,6 +609,9 @@
       "mp3quranId": 86,
       "bundledIds": [
         "qatami"
+      ],
+      "radioIds": [
+        53
       ]
     },
     {
@@ -493,28 +619,34 @@
       "file": "Noreen Muhammad Siddiq.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Noreen%20Muhammad%20Siddiq.png",
       "mp3quranId": 138,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        109084
+      ]
     },
     {
       "name": "Obaida Muafaq",
       "file": "Obaida Muafaq.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Obaida%20Muafaq.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Omar Hisham Al-Arabi",
       "file": "Omar Hisham Al-Arabi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Omar%20Hisham%20Al-Arabi.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Raad Al-Kurdi",
       "file": "Raad Al-Kurdi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Raad%20Al-Kurdi.png",
       "mp3quranId": 221,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Saad Al-Ghamdi",
@@ -523,6 +655,9 @@
       "mp3quranId": 30,
       "bundledIds": [
         "ghamdi"
+      ],
+      "radioIds": [
+        17
       ]
     },
     {
@@ -530,14 +665,18 @@
       "file": "Salah Bukhatir.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Salah%20Bukhatir.png",
       "mp3quranId": 46,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": [
+        26
+      ]
     },
     {
       "name": "Salman Al-Otaibi",
       "file": "Salman Al-Otaibi.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Salman%20Al-Otaibi.png",
       "mp3quranId": 240,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Saud Al-Shuraim",
@@ -546,6 +685,9 @@
       "mp3quranId": 31,
       "bundledIds": [
         "shuraim"
+      ],
+      "radioIds": [
+        18
       ]
     },
     {
@@ -555,6 +697,9 @@
       "mp3quranId": 4,
       "bundledIds": [
         "shatri"
+      ],
+      "radioIds": [
+        2
       ]
     },
     {
@@ -562,14 +707,16 @@
       "file": "Siratullo Raupov.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Siratullo%20Raupov.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Wadi' Al-Yamani",
       "file": "Wadi' Al-Yamani.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Wadi%27%20Al-Yamani.png",
       "mp3quranId": 219,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Yasser Al-Dosari",
@@ -578,6 +725,9 @@
       "mp3quranId": 92,
       "bundledIds": [
         "dosari"
+      ],
+      "radioIds": [
+        58
       ]
     },
     {
@@ -585,28 +735,32 @@
       "file": "Yergen Kumarov.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Yergen%20Kumarov.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Yerkinbek Shoqai",
       "file": "Yerkinbek Shoqai.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Yerkinbek%20Shoqai.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Younes Souilass",
       "file": "Younes Souilass.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Younes%20Souilass.png",
       "mp3quranId": 264,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     },
     {
       "name": "Yussef Al-Suqair",
       "file": "Yussef Al-Suqair.png",
       "url": "https://raw.githubusercontent.com/bilalelsayed97/quran-data/main/reciters/Yussef%20Al-Suqair.png",
       "mp3quranId": null,
-      "bundledIds": []
+      "bundledIds": [],
+      "radioIds": []
     }
   ]
 }
