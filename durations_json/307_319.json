@@ -8,8 +8,8 @@
     "id": 319,
     "name": "ورش عن نافع - مرتل",
     "server": "https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/",
-    "surah_total": 15,
-    "surah_list": "1,18,19,31,49,50,51,55,56,66,67,72,75,87,112"
+    "surah_total": 16,
+    "surah_list": "1,18,19,31,49,50,51,55,56,66,67,72,75,87,89,112"
   },
   "durations": {
     "1": 59,
@@ -26,7 +26,8 @@
     "72": 333,
     "75": 279,
     "87": 80,
+    "89": 224,
     "112": 10
   },
-  "duration_count": 15
+  "duration_count": 16
 }
